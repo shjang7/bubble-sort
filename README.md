@@ -1,4 +1,5 @@
 # Ruby bubble sort (and bubble sort by) implementations
+[![Run on Repl.it](https://repl.it/badge/github/shjang7/bubble-sort)](https://repl.it/github/shjang7/bubble-sort)
 
 This collaborative project to test our understanding of the [bubble sort methodology](https://en.wikipedia.org/wiki/Bubble_sort).
 
@@ -7,6 +8,33 @@ The project is part of a series of projects to be completed by students of [Micr
 ## Technologies
 
 - Ruby
+
+## Getting started
+
+> Clone the repository to your local machine
+
+```sh
+$ git clone https://github.com/shjang7/bubble-sort.git
+```
+
+> Go to your directory
+
+```sh
+$ cd bubble-sort
+```
+
+> Open your 'irb'
+
+```sh
+$ irb
+irb(main):001:0>
+```
+
+> Call main module with require
+
+```sh
+> require "./main.rb"
+```
 
 ## Contributors
 
